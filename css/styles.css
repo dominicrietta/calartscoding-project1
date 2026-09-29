@@ -281,7 +281,7 @@ html {
 
 @media screen and (min-width: 850px) {
 	.card a {
-		transition: box-shadow 0.3s ease;
+		transition: box-shadow 0.1s ease;
 	}
 }
 
